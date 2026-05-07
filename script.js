@@ -578,7 +578,7 @@ const heroFeatured = [
   movies.find(m=>m.title==="Avengers: Endgame"),
   movies.find(m=>m.title==="Interstellar"),
   movies.find(m=>m.title==="Baahubali: The Beginning"),
-  movies.find(m=>m.title==="Oppenheimer"),
+  movies.find(m=>m.title==="Avatar"),
   movies.find(m=>m.title==="Leo"),
   movies.find(m=>m.title==="Stranger Things"),
   movies.find(m=>m.title==="Breaking Bad"),
